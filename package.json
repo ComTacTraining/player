@@ -1,7 +1,7 @@
 {
   "name": "@comtactraining/player",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@comtactraining/player"
+    "registry": "https://npm.pkg.github.com/comtactraining"
   },
   "version": "0.1.0",
   "description": "Command Tactical Player",
